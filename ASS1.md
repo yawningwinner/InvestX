@@ -8,7 +8,7 @@ Utility : To discern whether prices are able to rise, or fall, with little resis
           It calculates how easily a price can move up or down, based on momentum.<br>
           Code Implementation along with Calculation details : https://colab.research.google.com/drive/1KtssBTm0Pc_tFZNqhwaKxwjT8Qg5t45y?usp=sharing <br>
  I tried varying the period (standard 14) for Tesla
- Period 18 showed a lot of sharp distinct peaks and troughs so I find it best matches with my data
+ Period 18 showed a lot of sharp distinct peaks and troughs so I find it best matches with my data. Wen the indicator is above the line, in positive territory, prices are advancing with relative ease which kind of indicates the right time to buy.
  ## Ichimoku Cloud Lines
  Utility :  It shows support and resistance levels, as well as momentum and trend direction by taking multiple averages
  The overall trend is up when the price is above the cloud, down when the price is below the cloud(formed by Leading Span A and Leading Span B), and trendless or transitioning when the price is in the cloud.<br>
