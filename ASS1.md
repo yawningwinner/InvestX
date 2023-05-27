@@ -15,7 +15,9 @@ Utility : To discern whether prices are able to rise, or fall, with little resis
  Code Implementation along with Calculation details : https://colab.research.google.com/drive/1fZ-ShdIAINFkhh8TCgEiaxoLVRzHGyAg?usp=sharing<br>
  I tried to see variations in the graph(plotted using matplotlib) on changing the periods. Some observations from that :<br>
           1. The cloud width decreases as we increase the base period<br>
-          2. Not much effect could be seen on changing the conversion period till it was kept less than the base period. Considerable effect could be seen on                      increasing it furthur
+          2. Not much effect could be seen on changing the conversion period till it was kept less than the base period. Considerable effect could be seen on                      increasing it furthur <br>
+ I find Conversion period = 7 , Baseline period =30 , Lagging Span = 44 to be  best for my data because the cloud thus formed best fits my data as could be seen in the plot
+   
 ## Keltner Channels
 Utility : Help in determining direction of a trend <br>
 Code Implementation : https://colab.research.google.com/drive/1m4S8O1wr3HlFjkFS6TlN16QLVv6ND4XC?usp=sharing <br>
